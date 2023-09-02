@@ -1,0 +1,8 @@
+﻿  client.cpp
+C:\Users\AOZ\Desktop\Final\RSA\CPP\client\client\stdafx.h(12,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(23,1): message : see previous definition of 'STRICT'
+C:\Users\AOZ\Desktop\Final\RSA\CPP\client\client\meth.h(27,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\AOZ\Desktop\Final\RSA\CPP\client\client\meth.h(81,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AOZ\Desktop\Final\RSA\CPP\client\client\Socket.h(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AOZ\Desktop\Final\RSA\CPP\client\client\client.cpp(7,19): warning C4018: '<': signed/unsigned mismatch
+  client.vcxproj -> C:\Users\AOZ\Desktop\Final\RSA\CPP\client\x64\Debug\client.exe

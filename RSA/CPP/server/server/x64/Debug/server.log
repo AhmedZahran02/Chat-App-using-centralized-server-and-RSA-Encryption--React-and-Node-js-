@@ -1,0 +1,7 @@
+﻿  server.cpp
+C:\Users\AOZ\Desktop\Final\RSA\CPP\server\server\stdafx.h(12,1): warning C4005: 'STRICT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(23,1): message : see previous definition of 'STRICT'
+C:\Users\AOZ\Desktop\Final\RSA\CPP\server\server\meth.h(71,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AOZ\Desktop\Final\RSA\CPP\server\server\Socket.h(177,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AOZ\Desktop\Final\RSA\CPP\server\server\server.cpp(107,19): warning C4018: '<': signed/unsigned mismatch
+  server.vcxproj -> C:\Users\AOZ\Desktop\Final\RSA\CPP\server\x64\Debug\server.exe
